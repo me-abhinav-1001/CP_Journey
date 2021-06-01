@@ -1,0 +1,24 @@
+# 1 "C:\\Users\\ABHINAV ANAND\\Desktop\\CP_Journeys\\CP_Journey\\.vscode\\launch.json"
+# 1 "C:\\Users\\ABHINAV ANAND\\Desktop\\CP_Journeys\\CP_Journey\\.vscode//"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "C:\\Users\\ABHINAV ANAND\\Desktop\\CP_Journeys\\CP_Journey\\.vscode\\launch.json"
+{
+
+
+
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "(Windows) Launch",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "enter program name, for example ${workspaceFolder}/a.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "console": "externalTerminal"
+        }
+    ]
+}
